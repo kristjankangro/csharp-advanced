@@ -5,6 +5,8 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <AssemblyName>EventHandler_videoencoder</AssemblyName>
+        <RootNamespace>EventHandler_videoencoder</RootNamespace>
     </PropertyGroup>
 
 </Project>
